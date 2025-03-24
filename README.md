@@ -6,7 +6,7 @@ This is a course unlike most traditional general science classes.  There are two
 
 1. **Campus-wide lunch lectures on scientific topics.** This will substitute for one class period per week.
 
-2. **Seminar class to dig into scientific lecture and others.** The format will be mostly discussion and occasional lecture.
+2. **Seminar class on scientific lectures and assigned readings.** The format will be mostly discussion and occasional lecture.
 
 ## Grading
 

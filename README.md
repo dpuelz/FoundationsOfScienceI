@@ -4,13 +4,13 @@ Intellectual Foundations course offered by the STEM Center @ The University of A
 
 This is a course unlike most traditional general science classes.  There are two modes:
 
-1. Campus-wide lunch lectures on scientific topics.
-	- This will substitute for one class period per week.
+1. **Campus-wide lunch lectures on scientific topics.** This will substitute for one class period per week.
 
-2. Seminar class to dig into scientific lecture and others.
-	- The format will be mostly discussion and occasional lecture.
-
+2. **Seminar class to dig into scientific lecture and others.** The format will be mostly discussion and occasional lecture.
 
 ## Grading
 
-- 30% 
+- 30% in-class, closed book quizzes on lunch lectures.
+- 30% discussion participation, course engagement, homeworks (inluding reflection papers)
+- 40% final oral exam
+

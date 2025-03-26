@@ -11,7 +11,7 @@ This is a course unlike most traditional general science classes.  There are two
 ### Grading
 
 - 30% in-class, closed-book quizzes on lunch lectures.
-- 30% discussion participation, course engagement, homeworks (inluding reflection papers).
+- 30% discussion participation, course engagement, homeworks (including reflection papers).
 - 40% final oral exam.
 
 ### Main Readings

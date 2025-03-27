@@ -17,7 +17,7 @@ This is a course unlike most traditional general science classes.  There are two
 ### Main Readings
 
 - The Feynman Lectures on Physics (FLP), including Six Easy Pieces (SEP) by Richard Feynman
-- The Biggest Ideas in the Universe (BIU) by Sean Carroll
+- *The Biggest Ideas in the Universe* (BIU) by Sean Carroll
 
 ### Final Oral Exam
 
@@ -27,5 +27,14 @@ You will be asked to explain a scientific concept in great detail with clarity a
 
 - The Science Wars
 - Fauci's "I am Science" moment
-- Science as Falsification
+- [Science as Falsification](readings/popper.pdf)
+
+## Topic 2: Classical Mechanics
+
+## Topic 3: Thermodynamics
+
+## Topic 4: Electromagnetism
+
+## Topic 5: Quantum and Relativity
+
 

@@ -10,7 +10,7 @@ This is a course unlike most traditional general science classes.  There are two
 
 ### Grading
 
-- 30% in-class, closed-book quizzes on lunch lectures.
+- 30% evaluations on lunch lectures (either quizzes or reflections).
 - 30% discussion participation, course engagement, homeworks (including reflection papers).
 - 40% final oral exam.
 
@@ -35,6 +35,8 @@ You will be asked to explain a scientific concept in great detail with clarity a
 
 ## Topic 4: Electromagnetism
 
-## Topic 5: Quantum and Relativity
+## Topic 5: Energy
+
+## Topic 6: Quantum and Relativity
 
 

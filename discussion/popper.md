@@ -1,4 +1,6 @@
 
+## Popper Discussion Questions
+
 Is falsifiability enough to distinguish science from pseudo-science?
 
 Why should scientific theories make risky predictions?

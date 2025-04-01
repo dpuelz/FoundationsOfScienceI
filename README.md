@@ -27,7 +27,7 @@ You will be asked to explain a scientific concept in great detail with clarity a
 
 - The Science Wars
 - Fauci's "I am Science" moment
-- [Science as Falsification](readings/popper.pdf).  [Discussion questions](discussion/popper.md)
+- [Science as Falsification](readings/popper.pdf) and [Discussion questions](discussion/popper.md)
 
 ## Topic 2: Classical Mechanics
 

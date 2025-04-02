@@ -31,6 +31,10 @@ You will be asked to explain a scientific concept in great detail with clarity a
 
 ## Topic 2: Classical Mechanics
 
+- [FLP: Basic Physics](https://www.feynmanlectures.caltech.edu/I_02.html)
+- [FLP: Motion](https://www.feynmanlectures.caltech.edu/I_08.html)
+
+
 ## Topic 3: Thermodynamics
 
 ## Topic 4: Electromagnetism

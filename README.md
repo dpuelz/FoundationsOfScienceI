@@ -16,7 +16,7 @@ This is a course unlike most traditional general science classes.  There are two
 
 ### Main Readings
 
-- The Feynman Lectures on Physics (FLP), including Six Easy Pieces (SEP) by Richard Feynman
+- [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu) (FLP), including Six Easy Pieces (SEP) by Richard Feynman
 - *The Biggest Ideas in the Universe* (BIU) by Sean Carroll
 
 ### Final Oral Exam

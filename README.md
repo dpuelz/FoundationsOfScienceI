@@ -23,6 +23,14 @@ This is a course unlike most traditional general science classes.  There are two
 
 You will be asked to explain a scientific concept in great detail with clarity and rigor.
 
+
+### Lunch Lectures
+
+- Apr 7 — Dave Ruth / Nuclear
+- Apr 14 — Alex Le Roux / ICON
+- Apr 21 — Mike Eros / Geothermal
+- Apr 28 — Justin Lopas / Base Power
+
 ## Topic 1: What is Science?
 
 - The Science Wars

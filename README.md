@@ -31,6 +31,11 @@ You will be asked to explain a scientific concept in great detail with clarity a
 - Apr 21 — Mike Eros / Geothermal
 - Apr 28 — Justin Lopas / Base Power
 
+### Assignments
+
+- Reflection 1 on Dave Ruth's scientific lecture.  Due 4/11/2025.  Please follow the [rubric](rubrics/TechnicalLectureReflections.pdf).
+
+
 ## Topic 1: What is Science?
 
 - The Science Wars

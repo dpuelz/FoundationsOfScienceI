@@ -26,10 +26,13 @@ You will be asked to explain a scientific concept in great detail with clarity a
 
 ### Lunch Lectures
 
+These are mandatory 
+
 - Apr 7 — Dave Ruth / Nuclear
 - Apr 14 — Alex Le Roux / ICON
-- Apr 21 — Mike Eros / Geothermal
+- Apr 21 — TBD
 - Apr 28 — Justin Lopas / Base Power
+- May 12 - Charles Puelz / UofH and BCM
 
 ### Assignments
 
@@ -46,6 +49,8 @@ You will be asked to explain a scientific concept in great detail with clarity a
 
 - [FLP: Basic Physics](https://www.feynmanlectures.caltech.edu/I_02.html)
 - [FLP: Motion](https://www.feynmanlectures.caltech.edu/I_08.html)
+- [FLP: Newton’s Laws of Dynamics](https://www.feynmanlectures.caltech.edu/I_09.html)
+- [FLP: Conservation of Momentum](https://www.feynmanlectures.caltech.edu/I_10.html)
 
 
 ## Topic 3: Thermodynamics

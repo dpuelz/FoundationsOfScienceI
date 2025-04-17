@@ -37,6 +37,7 @@ These are mandatory
 ### Assignments
 
 - Reflection 1 on Dave Ruth's scientific lecture.  Due 4/11/2025.  Please follow the [rubric](rubrics/TechnicalLectureReflections.pdf).
+- Reflection 2 on Alex Le Roux's (ICON) scientific lecture.  Due 4/18/2025.  Please follow the [rubric](rubrics/TechnicalLectureReflections.pdf).
 
 
 ## Topic 1: What is Science?

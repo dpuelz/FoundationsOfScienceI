@@ -23,6 +23,7 @@ This is a course unlike most traditional general science classes.  There are two
 
 You will be asked to explain a scientific concept in great detail with clarity and rigor.
 
+We will be practicing for the final by taking turns presenting concepts and getting peer feedback.  Please check out these [slides](slides/OralExamFrameworkandDetails.pdf) for an example structure and presentation schedule.
 
 ### Lunch Lectures
 

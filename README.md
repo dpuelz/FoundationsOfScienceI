@@ -39,6 +39,7 @@ These are mandatory
 
 - Reflection 1 on Dave Ruth's scientific lecture.  Due 4/11/2025.  Please follow the [rubric](rubrics/TechnicalLectureReflections.pdf).
 - Reflection 2 on Alex Le Roux's (ICON) scientific lecture.  Due 4/18/2025.  Please follow the [rubric](rubrics/TechnicalLectureReflections.pdf).
+- Reflection 3 on Justin Lopas's (ICON) scientific lecture.  Due 5/2/2025.  Please follow the [rubric](rubrics/TechnicalLectureReflections.pdf).
 
 
 ## Topic 1: What is Science?
@@ -56,6 +57,11 @@ These are mandatory
 
 
 ## Topic 3: Thermodynamics
+
+- [FLP: The Kinetic Theory of Gases](https://www.feynmanlectures.caltech.edu/I_39.html)
+- [FLP: The Principles of Statistical Mechanics](https://www.feynmanlectures.caltech.edu/I_40.html)
+- [FLP: The Laws of Thermodynamics](https://www.feynmanlectures.caltech.edu/I_44.html)
+
 
 ## Topic 4: Electromagnetism
 

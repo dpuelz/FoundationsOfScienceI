@@ -27,13 +27,16 @@ We will be practicing for the final by taking turns presenting concepts and gett
 
 ### Lunch Lectures
 
-These are mandatory 
+These are mandatory. 
 
-- Apr 7 — Dave Ruth / Nuclear
+- Apr 7 — Dave Ruth / Mechanics and Sonar
 - Apr 14 — Alex Le Roux / ICON
 - Apr 21 — TBD
 - Apr 28 — Justin Lopas / Base Power
 - May 12 - Charles Puelz / UofH and BCM
+- May 19 - Mike Eros / Sage Geosystems
+- May 28 (W) - L Herrera Hernandez / Sage Geosystems
+- June 2 - Dave Ruth / Nuclear Power
 
 ### Assignments
 

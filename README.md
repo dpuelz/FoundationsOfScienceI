@@ -35,7 +35,7 @@ These are mandatory.
 - Apr 28 — Justin Lopas / Base Power
 - May 12 - Charles Puelz / UofH and BCM
 - May 19 - Mike Eros / Sage Geosystems
-- May 28 (W) - L Herrera Hernandez / Sage Geosystems
+- May 28 (W) - L Herrera Hernandez / Firefly Aerospace
 - June 2 - Dave Ruth / Nuclear Power
 
 ### Assignments
